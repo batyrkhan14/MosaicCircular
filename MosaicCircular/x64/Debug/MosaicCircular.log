@@ -1,0 +1,4 @@
+﻿  MosaicCircular.cpp
+c:\users\batyrkhan\documents\visual studio 2015\projects\mosaiccircular\mosaiccircular\mosaiccircular.cpp(151): warning C4244: =: преобразование "double" в "uchar", возможна потеря данных
+  MosaicCircular.vcxproj -> C:\Users\Batyrkhan\Documents\Visual Studio 2015\Projects\MosaicCircular\x64\Debug\MosaicCircular.exe
+  MosaicCircular.vcxproj -> C:\Users\Batyrkhan\Documents\Visual Studio 2015\Projects\MosaicCircular\x64\Debug\MosaicCircular.pdb (Partial PDB)
